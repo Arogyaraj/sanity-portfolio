@@ -41,7 +41,7 @@ export default {
           },
           {
             title: 'Frontend',
-            value: 'https://sanity-portfolio-web-gmm39m6h.netlify.com',
+            value: 'https://terrible-regret.tk',
             category: 'apps'
           }
         ]
