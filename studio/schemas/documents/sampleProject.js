@@ -1,7 +1,7 @@
 import {format} from 'date-fns'
 
 export default {
-  name: 'projects',
+  name: 'sampleProject',
   title: 'Project',
   type: 'document',
   fields: [
