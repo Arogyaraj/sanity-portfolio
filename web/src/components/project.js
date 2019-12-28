@@ -1,6 +1,6 @@
 import {format, distanceInWords, differenceInDays} from 'date-fns'
 import React from 'react'
-import InstagramEmbed from "react-instagram-embed";
+import InstagramEmbed from 'react-instagram-embed'
 import {Link} from 'gatsby'
 import {buildImageObj} from '../lib/helpers'
 import {imageUrlFor} from '../lib/image-url'
