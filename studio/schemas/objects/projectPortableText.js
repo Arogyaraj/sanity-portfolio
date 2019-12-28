@@ -47,9 +47,6 @@ export default {
     {
       type: 'figure'
     },
-    { 
-      type: "block" 
-    },
      { 
        type: "instagramPost" 
      }
