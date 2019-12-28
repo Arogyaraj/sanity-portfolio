@@ -61,7 +61,11 @@ export default {
     {
       name: 'body',
       title: 'Body',
-      type: 'projectPortableText'
+      type: 'projectPortableText',
+      of: [
+        { type: "block" },
+        { type: "instagramPost" }
+      ]
     },
     {
       name: 'relatedProjects',
