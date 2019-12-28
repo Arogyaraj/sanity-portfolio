@@ -59,13 +59,9 @@ export default {
       of: [{type: 'reference', to: {type: 'category'}}]
     },
     {
-      title: "Body",
-      name: "body",
-      type: "array",
-      of: [
-        { type: "block" },
-        { type: "instagramPost" }
-      ]
+      name: 'body',
+      title: 'Body',
+      type: 'projectPortableText'
     },
     {
       name: 'relatedProjects',
