@@ -1,5 +1,4 @@
 
-import React from "react";
 import InstagramEmbed from "react-instagram-embed";
 
 const InstagramPreview = ({ value }) => {
