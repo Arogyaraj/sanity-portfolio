@@ -1,3 +1,5 @@
+import InstagramPreview from "../objects/instagramPost";
+
 export default {
   type: "object",
   name: "instagramPost",
@@ -6,7 +8,11 @@ export default {
     {
       name: "url",
       type: "url",
-      description: "Visit an Instagram post in a browser and copy the URL."
+      description: "Visit an Instagram post in a browser and copy the URL"
     }
-  ]
+  ],
+  preview: {
+    select: { url: "url" },
+    component: InstagramPreview
+  }
 };
