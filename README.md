@@ -1,3 +1,6 @@
+[Click to visit the Site!](https://terrible-regret.tk/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/59c4b6de-b92e-4816-be1e-0576c1307c0a/deploy-status)](https://app.netlify.com/sites/arogyaraj/deploys)
+
 # sanity-portfolio
 
 A portfolio using structured content and a static site builder.
