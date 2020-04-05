@@ -26,7 +26,7 @@ const Header = ({onHideNav, onShowNav, showNav, siteTitle}) => (
      <nav className={cn(styles.nav, showNav && styles.showNav)}>
         <ul>
           <li>
-            <Link to=''>@ArogyaRaj-De-Joseph</Link>
+            <Link to=''>@ACTRESS-MANIACS!</Link>
           </li>
         </ul>
       </nav>
