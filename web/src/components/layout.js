@@ -13,7 +13,7 @@ const Layout = ({children, onHideNav, onShowNav, showNav, siteTitle}) => (
         <div className={styles.siteInfo}>
           © {new Date().getFullYear()}, Built with <a href='https://www.sanity.io'>Sanity</a> &amp;
           {` `}
-          <a href='https://www.instagram.com/_arogyaraj_'>By Aro.</a>
+          <a href='https://www.instagram.com/derek_586'>By ActressManiacs.</a>
         </div>
       </div>
     </footer>
